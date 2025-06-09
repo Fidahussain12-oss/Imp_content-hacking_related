@@ -1,0 +1,34 @@
+Shodan : Shodan, a search engine for devices connected to the Internet.
+
+Censys:  Censys appears similar to Shodan. However, Shodan focuses on Internet-connected devices and systems, such as servers, routers, webcams, and IoT devices. Censys, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. Some of its use cases include enumerating domains in use, auditing open ports and services, and discovering rogue assets within a network.
+
+VirusTotal : VirusTotal is an online website that provides a virus-scanning service for files using multiple antivirus engines. It allows users to upload files or provide URLs to scan them against numerous antivirus engines and website scanners in a single operation. They can even input file hashes to check the results of previously uploaded files.
+
+Have I Been Pwned :
+Have I Been Pwned (HIBP) does one thing; it tells you if an email address has appeared in a leaked data breach. Finding one’s email within leaked data indicates leaked private information and, more importantly, passwords. Many users use the same password across multiple platforms, if one platform is breached, their password on other platforms is also exposed. Indeed, passwords are usually stored in encrypted format; however, many passwords are not that complex and can be recovered using a variety of attacks.
+
+Exploit database
+
+In Windows, the netstat parameter that displays the executable (program) associated with each active connection or listening port is:
+
+-b	Shows the executable name (e.g., chrome.exe) behind each connection.
+-a	Displays all connections and listening ports.
+-n	Shows addresses/ports in numeric form (faster, no DNS resolution).
+-o	Includes the Process ID (PID) of each connection.
+
+
+scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt   //this command is transfer filr to local machine to host machine
+
+python3 -m http.server
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) turn on the your own machine server
+wget http://10.10.32.85:8000/myfile. and download the files throw ip
+
+ps aux // chcek what background process in kali machine
+
+Below are some of the signals that we can send to a process when it is killed:
+
+    SIGTERM - Kill the process, but allow it to do some cleanup tasks beforehand
+    SIGKILL - Kill the process - doesn't do any cleanup after the fact
+    SIGSTOP - Stop/suspend a process
+    
+    https://crontab-generator.org/ //crontab generator

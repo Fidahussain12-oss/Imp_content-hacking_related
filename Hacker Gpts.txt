@@ -1,0 +1,9 @@
+GPT Type	Description
+Ethical Hacker GPT	Like me — designed to audit, find, and explain vulnerabilities in web/mobile apps or systems.
+Pentest Assistant GPT	Assists in penetration testing methodology, tools (e.g., Burp Suite, Metasploit), and report generation.
+Malware Analysis GPT	Specialized in reverse engineering or static/dynamic analysis of malware.
+OSINT GPT	Helps gather and analyze open-source intelligence (useful in reconnaissance).
+Exploit-Development GPT	Focused on finding and understanding exploit development (within ethical/legal bounds).
+Security Research GPT	Assists with writing PoCs, analyzing CVEs, and vulnerability disclosures.
+Red Team GPT	Simulates adversary tactics and helps with offensive security training.
+Blue Team GPT	Focused on defense — SIEM, log analysis, incident response, and patching strategies.
