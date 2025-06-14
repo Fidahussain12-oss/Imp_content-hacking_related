@@ -1,0 +1,8 @@
+//How to download NMAP in Kali Linux
+apt install libssl-dev autoconf make g++ subversion
+//This Command initiates the downloads and listing the files
+svn co https://svn.nmap.org/nmap/
+//Then Type (ls) then (cd Nmap)
+//Then Type ./configure
+//Then Type (make)
+

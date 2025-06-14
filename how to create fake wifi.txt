@@ -1,0 +1,3 @@
+fisrt create notepad file extention must be .lst 
+then enter your fake wifi names
+then type this command// mdk3 wlan0mon b -c 1 -f (then your paste here .lstfile)
